@@ -42,12 +42,4 @@ violates Roblox ToS and may be illegal.
 
 ## Load Order
 
-```lua
--- Execute these in order:
-loadstring(game:HttpGet("https://raw.githubusercontent.com/yourusername/SQL/main/sql_main.luau"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/yourusername/SQL/main/sql_select.luau"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/yourusername/SQL/main/sql_add.luau"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/yourusername/SQL/main/sql_remove.luau"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/yourusername/SQL/main/sql_inject.luau"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/yourusername/SQL/main/sql_backdoor.luau"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/yourusername/SQL/main/example_usage.luau"))()
+to load them you need to load all scripts in order to make it fully work !
